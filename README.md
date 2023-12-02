@@ -1,2 +1,2 @@
 # leetcode day#1
-# leetcode day#2
+# leetcode day#2 hi
